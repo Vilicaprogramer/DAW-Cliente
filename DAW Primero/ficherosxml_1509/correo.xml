@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <correo id="1AAA">
+        <de>raul.albiol@thepower.education</de>
+        <para>pepe.ramirez@thepower.education</para>
+        <cc></cc>
+        <cco></cco>
+        <asunto>Correo de prueba</asunto>
+        <mensaje>"Hola que tal estais, espero que hayais
+            disfrutado del verano"
+        </mensaje>
+        <importanciaAlta/>
+    </correo>
+    <correo id="2AAA">
+        <de>raul.albiol@thepower.education</de>
+        <para>pepe.ramirez@thepower.education</para>
+        <cc></cc>
+        <cco></cco>
+        <asunto>Correo de prueba</asunto>
+        <mensaje>"Hola que tal estais, espero que hayais
+            disfrutado del verano"
+        </mensaje>
+    </correo>
+    
+</email>
