@@ -1,0 +1,35 @@
+{
+  "tareas": [
+    {
+      "id": "1",
+      "titulo": "Aprender JSON Server",
+      "completada": false
+    },
+    {
+      "id": "2",
+      "titulo": "Consumir APIs Mock",
+      "completada": true
+    },
+    {
+      "id": "3",
+      "titulo": "Crear API Service",
+      "completada": false
+    },
+    {
+      "titulo": "Tarea desde el navegador",
+      "completada": false,
+      "id": "l28HdxVYrlI"
+    },
+    {
+      "titulo": "Tarea desde el navegador",
+      "completada": false,
+      "id": "4A4BYmOnmZ4"
+    },
+    {
+      "titulo": "Tarea desde el navegador",
+      "completada": false,
+      "id": "oCh6Luum704"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
