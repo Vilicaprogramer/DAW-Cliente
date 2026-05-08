@@ -29,6 +29,31 @@
       "titulo": "Tarea desde el navegador",
       "completada": false,
       "id": "oCh6Luum704"
+    },
+    {
+      "titulo": "Paralelo 5",
+      "completada": false,
+      "id": "Z5PqWR55jzE"
+    },
+    {
+      "titulo": "Paralelo 4",
+      "completada": true,
+      "id": "8gpw_q3ofZE"
+    },
+    {
+      "titulo": "Paralelo 3",
+      "completada": false,
+      "id": "lbx6qRW79xw"
+    },
+    {
+      "titulo": "Paralelo 1",
+      "completada": true,
+      "id": "0xlPdiePFhw"
+    },
+    {
+      "titulo": "Paralelo 2",
+      "completada": false,
+      "id": "8ykCyrs9BMY"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
