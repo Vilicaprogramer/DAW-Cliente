@@ -1,0 +1,40 @@
+#lista {
+    display: flex;
+    justify-content: center;
+}
+
+#lista > * {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#lista > *:hover {
+    border: 2px solid;
+    border-color:black;
+    cursor: pointer;
+}
+
+.botonera {
+     display: flex;
+}
+
+.botonera > *{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.filtro:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.card-disponible {
+    border-left: 5px solid green;
+}
+
+.card-no-disponible {
+    border-left: 5px solid red;
+}
